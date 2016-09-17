@@ -43,8 +43,13 @@ h3 {
   font-family: lato, sans-serif;
   font-style: normal;
   font-weight: 700;
-  color: #d8d8d8
+  color: #d8d8d8;
+  transition: color 500ms;
 }
+h3:hover {
+  color: #282828;
+}
+
 .masthead {
   background-color: #fff;
   text-align: center;
