@@ -29,22 +29,30 @@ h1 {
   font-family: lato, sans-serif;
   font-style: normal;
   font-weight: 700;
-  font-size: 2rem;
+  font-size: 2.7rem;
   text-align: center;
   text-shadow: 1px 1px 5px #fff;
+  margin-bottom: 0rem;
 }
 h2 {
   font-family: lato, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 1em;
+  text-align: center;
+  background-color: #fff;
+  padding: 5%;
 }
 h3 {
   font-family: lato, sans-serif;
   font-style: normal;
   font-weight: 700;
+  font-size: 1em;
   color: #d8d8d8;
   transition: color 500ms;
+  text-align: center;
+  background-color: #fff;
+  padding: 5%;
 }
 h3:hover {
   color: #282828;
@@ -53,22 +61,28 @@ h3:hover {
 .masthead {
   background-color: #fff;
   text-align: center;
-  padding: 1%;
+  padding-top: 1%;
 }
 .image {
   width: 100%;
   max-width: 760px;
+  padding-left: 5%;
+  padding-right: 5%;
 }
 .intro {
   padding-left: 5%;
   padding-right: 5%;
+  margin-top: -0.5rem;
 }
+
 @media only screen and (min-width: 48em) {
   .image {
     margin-left: 22%;
+    padding-left: 5%;
+    padding-right: 5%;
   }
   h1  {
-    font-size: 3.5rem;
+    font-size: 5rem;
     text-align: left;
     margin-top: 0;
   }
