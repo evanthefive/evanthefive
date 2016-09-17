@@ -30,3 +30,10 @@ h1 {
   width: 100%;
   max-width: 600px;
 }
+@media only screen and (min-width: 48em) {
+  .image {
+    margin-left: 10%;
+  }
+
+
+}
