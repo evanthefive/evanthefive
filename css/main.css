@@ -52,7 +52,7 @@ h3 {
   transition: color 500ms;
   text-align: center;
   background-color: #fff;
-  padding: 5%;
+  padding: 3.5%;
 }
 h3:hover {
   color: #282828;
@@ -68,6 +68,7 @@ h3:hover {
   max-width: 760px;
   padding-left: 5%;
   padding-right: 5%;
+  margin-top: 1rem;
 }
 .intro {
   padding-left: 5%;
@@ -77,14 +78,19 @@ h3:hover {
 
 @media only screen and (min-width: 48em) {
   .image {
-    margin-left: 22%;
+    margin-left: 5%;
+    margin-top: 0;
     padding-left: 5%;
     padding-right: 5%;
+    margin-bottom: -12px;
+    width: 134%;
   }
   h1  {
     font-size: 5rem;
     text-align: left;
     margin-top: 0;
   }
-
+  .eta {
+    margin-top: 1rem;
+  }
 }
