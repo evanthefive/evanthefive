@@ -114,10 +114,9 @@ a {
 .click {
   color: #fff;
 }
-
 .foottxt {
   background-color: #fff;
-  margin-top: 5rem;
+  margin-top: 15.5rem;
   margin-bottom: 0;
   text-decoration: none;
 }
@@ -157,5 +156,11 @@ a {
   }
   .top {
     margin-bottom: 2rem;
+  }
+  .foottxt {
+    background-color: #fff;
+    margin-top: 5rem;
+    margin-bottom: 0;
+    text-decoration: none;
   }
 }
