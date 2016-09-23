@@ -68,6 +68,9 @@ h4 {
   background-color: #fff;
   padding: 3.5%;
 }
+a {
+  text-decoration: none;
+}
 .site {
   text-decoration: none;
 }
@@ -112,8 +115,11 @@ h4 {
   color: #fff;
 }
 
-.foot {
-  position: relative;
+.foottxt {
+  background-color: #fff;
+  margin-top: 5rem;
+  margin-bottom: 0;
+  text-decoration: none;
 }
 @media only screen and (min-width: 48em) {
   .image {
