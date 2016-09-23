@@ -111,9 +111,7 @@ h4 {
 .click {
   color: #fff;
 }
-.eta {
-  background-color: #fff;
-}
+
 .foot {
   position: relative;
 }
@@ -123,7 +121,6 @@ h4 {
     margin-top: 0;
     padding-left: 5%;
     padding-right: 5%;
-    margin-bottom: -12px;
     width: 134%;
   }
   h1  {
@@ -134,9 +131,7 @@ h4 {
   h4 {
     max-width: 30rem;
   }
-  .eta {
-    margin-top: 1rem;
-  }
+
   .info {
     background-color: #fff;
     padding: 1rem;
@@ -153,5 +148,8 @@ h4 {
   }
   .cntnt {
     margin-left: 4.25%;
+  }
+  .top {
+    margin-bottom: 2rem;
   }
 }
